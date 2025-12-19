@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![banner](./assets/banner.png)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=theOrangeShi&style=flat)
 
 <!--
 **theOrangeShi/theOrangeShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
