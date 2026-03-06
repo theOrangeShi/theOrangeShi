@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="100" height="100" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="25" height="25" /> ![Profile Views](https://komarev.com/ghpvc/?username=theOrangeShi&style=flat)  
-🤗 Hugging Face: [Orangeshi](https://huggingface.co/Orangeshi)
+🤗Hugging Face: [Orangeshi](https://huggingface.co/Orangeshi)
 
 <!--
 **theOrangeShi/theOrangeShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
